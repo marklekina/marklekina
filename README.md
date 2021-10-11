@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marklekina
-- 👀 I’m interested in machine learning, NLP, software development.
+- 👀 I’m interested in machine learning, NLP & software development.
 - 🌱 I’m currently learning software design and implementation in C and Bash.
 - 💞️ I’m looking to collaborate on projects in any of the above topics.
 - 📫 How to reach me: email -> marklekina@gmail.com
