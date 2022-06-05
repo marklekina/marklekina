@@ -3,7 +3,6 @@
 - I’m currently learning data science + software design and implementation.
 - I’m looking to collaborate on projects in any of the above topics.
 - Reach me by email: marklekina@gmail.com
-> My C repositories are currently private, please let me know if you would be interested in having a look.
 
 <!---
 marklekina/marklekina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
