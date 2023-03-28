@@ -1,7 +1,7 @@
-- Hi, I’m Lekina
-- I’m interested in machine learning & distributed systems.
-- I’m currently learning the .NET framework and deep learning.
-- Reach me by email: marklekina@gmail.com
+👋 Hi, I’m Lekina.
+ - 👀 I’m interested in machine learning & distributed systems.
+ - 🌱 I’m currently learning the .NET framework and deep learning.
+ - 📩 Reach me by email: [marklekina@gmail.com](mailto:marklekina@gmail.com).
 
 <!---
 marklekina/marklekina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
