@@ -1,5 +1,5 @@
 - Hi, I’m Lekina
-- I’m interested in machine learning & distributed computing projects.
+- I’m interested in machine learning & distributed systems.
 - I’m currently learning the .NET framework and deep learning.
 - Reach me by email: marklekina@gmail.com
 
